@@ -1,3 +1,4 @@
 {
-  "dataUrl": "https://space-fast-track.herokuapp.com/generate"
+  "dataUrl": "https://space-fast-track.herokuapp.com/generate",
+  "radius": "6371"
 }
