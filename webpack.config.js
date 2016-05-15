@@ -1,6 +1,3 @@
-/**
- * Created by pperala on 15/05/16.
- */
 module.exports = {
     entry: './src/index.ts',
     output: {
@@ -11,7 +8,8 @@ module.exports = {
     },
     module: {
         loaders: [
-            { test: /\.ts$/, loader: 'ts-loader' }
+            { test: /\.ts$/, loader: 'ts-loader' },
+            { test: /\.json$/, loader: 'json-loader'}
         ]
     }
 }
