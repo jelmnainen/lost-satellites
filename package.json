@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jelmnainen/lost-satellites#readme",
   "dependencies": {
     "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
     "webpack": "^1.13.0"
   }
 }

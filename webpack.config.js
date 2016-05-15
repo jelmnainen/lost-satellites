@@ -2,9 +2,9 @@
  * Created by pperala on 15/05/16.
  */
 module.exports = {
-    entry: './app.ts',
+    entry: './src/index.ts',
     output: {
-        filename: 'bundle.js'
+        filename: 'dist/bundle.js'
     },
     resolve: {
         extensions: ['', '.webpack.js', '.web.js', '.ts', '.js']
