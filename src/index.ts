@@ -1,4 +1,4 @@
-declare var require: any
+import http from 'http'
 
 var { dataUrl } = require('../config.json')
 
