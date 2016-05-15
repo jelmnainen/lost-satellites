@@ -4,5 +4,6 @@
     "sourceMap": true
   },
   "files": [
+    "./src/index.ts"
   ]
 }
