@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jelmnainen/lost-satellites/issues"
   },
-  "homepage": "https://github.com/jelmnainen/lost-satellites#readme"
+  "homepage": "https://github.com/jelmnainen/lost-satellites#readme",
+  "dependencies": {
+    "webpack": "^1.13.0"
+  }
 }
