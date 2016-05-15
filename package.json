@@ -1,0 +1,19 @@
+{
+  "name": "lost-satellites",
+  "version": "1.0.0",
+  "description": "Reaktor challenge project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelmnainen/lost-satellites.git"
+  },
+  "author": "Johannes Elmnäinen, Pauli Perälä",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jelmnainen/lost-satellites/issues"
+  },
+  "homepage": "https://github.com/jelmnainen/lost-satellites#readme"
+}
